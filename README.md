@@ -46,8 +46,6 @@ Project	Tech Stack	Description
 🧠 ASL Recognition Model	Python, OpenCV, CNN	Real-time sign language detection from skeletal video data.
 🔁 Roman Numeral CLI	Node.js & Flask	A dual-backend CLI converter with async file logging and REST fallback.
 
-## ⚡ GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shamimgardobuya&theme=dark&background=000000)
 
 📫 Connect With Me
 
