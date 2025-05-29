@@ -47,8 +47,7 @@ Project	Tech Stack	Description
 🔁 Roman Numeral CLI	Node.js & Flask	A dual-backend CLI converter with async file logging and REST fallback.
 
 ## ⚡ GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shamimgardobuya)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shamimgardobuya" alt="GitHub Streak" /></a>
 Check out more projects in my [repositories](https://github.com/Shamimgardobuya?tab=repositories) »
 
 📫 Connect With Me
