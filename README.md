@@ -55,8 +55,7 @@ Check out more projects in my [repositories](https://github.com/Shamimgardobuya?
 📧 Email: shamimobuya@gmail.com
 
 ⚡ Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shamimgardobuya&theme=dark&background=000000)](https://git.io/streak-stats)
-
+https://streak-stats.demolab.com/?user=Shamimgardobuya&theme=dark&background=000000
 
 
 🚀 Here’s to clean logs, zero bugs, and lightning-fast deploys!
