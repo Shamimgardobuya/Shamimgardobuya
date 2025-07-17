@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFD5&center=true&width=475&lines=Hey+%F0%9F%91%8B+I'm+Shamim;Backend+Engineer+%7C+ML+Explorer;Code.+Cache.+Deploy.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFD5&center=true&width=475&lines=Hey+%F0%9F%91%8B+I'm+Shamim;Software+Engineer+%7C+ML+Explorer;Code.+Cache.+Deploy.+Repeat." alt="Typing SVG" />
 </h1>
 
 ---
@@ -8,7 +8,7 @@
 
 > 🧠 "Code with precision. Ship with swagger."
 
-Hi, I’m **Shamim** – a backend engineer who deals with  data,  APIs, and writhes joyfully in the depths of databases and queues.  
+Hi, I’m **Shamim** – a software engineer who deals with  data,  APIs, and writhes joyfully in the depths of databases and queues.  
 From crafting RESTful services with Laravel, Node.js & Django, to deploying Dockerized containers into the cloud — I build things that *just work*.  
 Currently leveling up in machine learning, with a focus on real-world impact  ( sign language recognition ✌️).
 
