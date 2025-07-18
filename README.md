@@ -8,8 +8,8 @@
 
 > 🧠 "Code with precision. Ship with swagger."
 
-Hi, I’m **Shamim** – a software engineer who deals with  data,  APIs, and writhes joyfully in the depths of databases and queues.  
-From crafting RESTful services with Laravel, Node.js & Django, to deploying Dockerized containers into the cloud — I build things that *just work*.  
+Hi, I’m **Shamim** – Hi, I’m Shamim, a software engineer deep in data, APIs, and the chaotic good vibes of databases and queues..  
+From crafting RESTful services with Laravel, Node.js & Django, to deploying Dockerized containers into the cloud, I build things that *just work*.  
 Currently leveling up in machine learning, with a focus on real-world impact  ( sign language recognition ✌️).
 
 ---
